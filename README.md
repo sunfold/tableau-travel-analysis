@@ -5,7 +5,7 @@ Tableau presentation of cleaned sample travel data from Kaggle.com
 To practice data cleaning and standardization in Excel, then data analysis and presentation using Tableau.
 
 ## Access on Tableau Public
-** NOTE: You can preview the story from my Tableau workbook at https://public.tableau.com/shared/KX46SMJWF?:display_count=n&:origin=viz_share_link. **
+**NOTE: You can preview the story from my Tableau workbook at https://public.tableau.com/shared/KX46SMJWF?:display_count=n&:origin=viz_share_link.**
 However, the workbook was optimized to be viewed via Tableau software.
 
 ## Project Overview
