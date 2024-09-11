@@ -4,6 +4,10 @@ Tableau presentation of cleaned sample travel data from Kaggle.com
 ## Purpose
 To practice data cleaning and standardization in Excel, then data analysis and presentation using Tableau.
 
+## Access on Tableau Public
+** NOTE: You can preview the story from my Tableau workbook at https://public.tableau.com/shared/KX46SMJWF?:display_count=n&:origin=viz_share_link. **
+However, the workbook was optimized to be viewed via Tableau software.
+
 ## Project Overview
 I downloaded a Kaggle.com dataset in CSV format (see kaggle-travel-dataset-original.csv in repository files) from https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data. 
 The dataset is a LLM-generated sample published by Kiattisak Rattanaporn. 
