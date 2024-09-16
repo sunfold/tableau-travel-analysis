@@ -40,4 +40,4 @@ Some travel destination records only contain a country, without a city. Instead 
 Data on the sole traveler from New Zealand was excluded from the "Aggregated by Traveler Nationality" map view, because the accommodation cost was an extreme high outlier.
 
 ## Credits
-Thanks to Kiattisak Rattanaporn at https://www.kaggle.com/rkiattisak for providing the original dataset available on Kaggle.
+Thanks to [Kiattisak Rattanaporn](https://www.kaggle.com/rkiattisak) for providing the [original Kaggle dataset](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data) under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
