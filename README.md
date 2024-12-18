@@ -12,11 +12,7 @@ However, the workbook was optimized to be viewed via Tableau software.
 I downloaded a Kaggle.com dataset in CSV format (see kaggle-travel-dataset-original.csv in repository files) from https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data. 
 The dataset is a LLM-generated sample published by Kiattisak Rattanaporn. 
 I cleaned the data using Excel, then imported the cleaned CSV into Tableau.
-In the Tableau workbook, I created multiple sheets as well as a dashboard and story.
-KPIs measured in the Tableau workbook include: 
-* Aggregated spending per gender and nationality
-* Most visited cities
-* Change in median trip durations broken down by months across multiple years
+The workbook currently consists of a dashboard and multiple worksheets.
 
 ## The Data
 The cleaned dataset consists of a single CSV file comprised of 13 fields containing 137 records.
